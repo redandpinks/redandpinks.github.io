@@ -1,2 +1,2 @@
 # zenabou-web
-my first web site
+building a website for first time ever
